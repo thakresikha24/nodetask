@@ -1,0 +1,67 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+html body{
+  height: 100%;
+  width: 100%;
+  background-color: rgb(159, 86, 86);
+}
+.main1{
+  height:57%;
+  width: 20%;
+  background-color: black;
+  top: 29%;
+  left: 40%;
+  position: absolute;
+  padding-inline-start: 3%;
+}
+.main1 input{
+  width: 80%;
+
+}
+h3{
+  left: 45%;
+  top: 23%;
+  position: absolute;
+  font: 1em sans-serif;
+}
+a{
+  top: 80%;
+  left: 50%;
+  position: absolute;
+}
+
+
+ 
+
+.main h1 {
+  font-size: 100px;
+  left: 34%;
+  
+  top: 5%;
+  position: absolute;
+  
+}
+.main h2 {
+  font-size: 30px;
+  left: 39%;
+  
+  top: 18%;
+  position: absolute;
+  
+}
+
+#j a{
+ top: 90%;
+ position: absolute;
+ left: 53%;
+}
+#k a{
+  top: 90%;
+  left: 42%;
+  position: absolute;
+
+}
